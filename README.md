@@ -1,6 +1,6 @@
 # hougaku
 
-An Offline Music Player Application
+An Offline Music Player Application using Flutter getx architecture 
 
 ## Getting Started
 
